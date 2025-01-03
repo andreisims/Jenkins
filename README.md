@@ -11,4 +11,9 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
 <li>Declarative Pipeline Language</li>
 
 <h2>Install Java</h2>
-<li>launch EC2 instance</li>
+<h3>launch EC2 instance</h3>
+
+ <li>name it (Jenkins-Server)</li>
+ <li>select Ubuntu image</li>
+ <li>t2.micro (may need to increase size depending on job)</li>
+ <li>create keypair (Jenkins-serverkey)</li>
