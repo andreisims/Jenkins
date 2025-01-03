@@ -10,6 +10,8 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
 <li>Multistage Pipelines in Code</li>
 <li>Declarative Pipeline Language</li>
 
+# This project is simply installing Jenkins on an AWS EC2 instance Running Ubuntu
+
 <h2>Install Java</h2>
 <h3>Create EC2 instance in AWS</h3>
 
@@ -54,3 +56,17 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
  <li>click "select plugins to install" (check nodejs> select install)</li>
 
  ![plugins](https://github.com/user-attachments/assets/b417dc60-6511-47d9-bb3b-3d2d3f054e88)
+
+ <li>create admin user and password</li>
+
+ ![first user](https://github.com/user-attachments/assets/3f27e4fd-a2fd-439d-b973-3980664397d4)
+
+<li>(the public IP is not static, so it will be lost once the instance is shut down) use any domain name (does not need to resolve), save and finish</li>
+
+![ready](https://github.com/user-attachments/assets/0e886006-af85-452d-a7dd-724c25dc8216)
+
+![welcome](https://github.com/user-attachments/assets/ce6fd4b2-c5d9-43a5-8255-bac394f92f16)
+
+<li>Project complete. Now power-off Jenkins when not in use</li>
+
+![stop](https://github.com/user-attachments/assets/fa1a879d-d7cb-40c1-8121-aedd14c74678)
