@@ -9,3 +9,6 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
 <li>Functions in your Jenkins pipelines</li>
 <li>Multistage Pipelines in Code</li>
 <li>Declarative Pipeline Language</li>
+
+<h2>Install Java</h2>
+<li>launch EC2 instance</li>
