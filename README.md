@@ -29,3 +29,20 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
  ![java version](https://github.com/user-attachments/assets/5ba98da4-2b18-4ecd-b180-7e876fd830c2)
 
  <li>download repository key (Jenkins.txt file)</li>
+ <li>create repository file (Jenkins.txt file). then enter "sudo apt update"</li>
+
+ ![repository file](https://github.com/user-attachments/assets/5a08c780-7aa4-4f39-b051-8b0b0578104f)
+
+ <h2>Install Jenkins</h2>
+ <li>sudo apt-get install jenkins -y</li>
+ <li>check Jenkins status (systemctl status jenkins)</li>
+
+ ![jenkins status](https://github.com/user-attachments/assets/9c6a8cd6-4bfa-41a6-b777-ccd3a4884f22)
+
+ <li>view Jenkins home directory (ls /var/lib/jenkins). The Jenkins home directory is the backbone of the Jenkins setup. Losing this directory can mean losing all jobs, configurations, and build histories. Best practice is to back up regularly</li>
+
+ ![jenkins directory](https://github.com/user-attachments/assets/647db191-b8c8-4fdf-92ad-22867d504d69)
+
+ <li>access Jenkins from Browser (public IP of Jenkins-Server in AWS and port 8080)</li>
+
+ ![jenkins browser](https://github.com/user-attachments/assets/1b2b80c1-41c7-4845-a5ca-dd432f677b14)
