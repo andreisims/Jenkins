@@ -46,3 +46,11 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
  <li>access Jenkins from Browser (public IP of Jenkins-Server in AWS and port 8080)</li>
 
  ![jenkins browser](https://github.com/user-attachments/assets/1b2b80c1-41c7-4845-a5ca-dd432f677b14)
+
+ <li>signin with the provided password. copy/paste password (cat /var/lib/jenkins/secrets/initialAdminPassword)this is the initial password that you will change once logged in</li>
+
+ ![password](https://github.com/user-attachments/assets/418f8a47-bc83-46bb-8a73-3185b4cda0b5)
+
+ <li>click "select plugins to install" (check nodejs> select install)</li>
+
+ ![plugins](https://github.com/user-attachments/assets/b417dc60-6511-47d9-bb3b-3d2d3f054e88)
