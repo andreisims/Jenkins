@@ -21,3 +21,9 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
  <li>SSH into the instance from Git bash (ssh -i Downloads/Jenkins-serverkey.pem ubuntu@'instance publice IP</li>
  
  ![ssh to instance](https://github.com/user-attachments/assets/e2ea096b-7234-4614-b6d1-66c92845a209)
+
+ <li>become the root user (sudo -i)> then enter "sudo apt update"</li>
+ <li>Install JDK (sudo apt install openjdk-21-jdk -y)> then enter "java -version" to display the current version</li>
+
+ ![installs](https://github.com/user-attachments/assets/83af0298-f879-4d70-be2e-87dc3d664370)
+ ![java version](https://github.com/user-attachments/assets/5ba98da4-2b18-4ecd-b180-7e876fd830c2)
