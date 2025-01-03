@@ -28,4 +28,4 @@ I'm sharing my journey of learning Jenkins and how it’s helping me grow in Dev
  ![installs](https://github.com/user-attachments/assets/83af0298-f879-4d70-be2e-87dc3d664370)
  ![java version](https://github.com/user-attachments/assets/5ba98da4-2b18-4ecd-b180-7e876fd830c2)
 
- <li>download repository key</li>
+ <li>download repository key (Jenkins.txt file)</li>
